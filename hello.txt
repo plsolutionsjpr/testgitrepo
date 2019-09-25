@@ -2,8 +2,4 @@ test file
 
 hello sh
 
-<<<<<<< Updated upstream
-dfdfjkl
-=======
-sdjdsksd
->>>>>>> Stashed changes
+masteer
